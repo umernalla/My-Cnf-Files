@@ -450,7 +450,6 @@
 *rtc*NI_PUB*overrideClearCache : False
 
 !!! Interactive Provider
-*rtc*serviceList : IPROV, DIRECT_FEED, ELEKTRON_DD, ERT_FD3_LF1
 *rtc*IPROV*cacheLocation : srcApp
 *rtc*IPROV*cacheType : sinkDriven
 *rtc*IPROV*maxCache : 50000
@@ -467,7 +466,6 @@
 *rtc*IPROV*overrideClearCache : False
 
 !!! Interactive Provider
-!*rtc*serviceList : DIRECT_FEED
 *rtc*DIRECT_FEED*cacheLocation : srcApp
 *rtc*DIRECT_FEED*cacheType : sinkDriven
 *rtc*DIRECT_FEED*maxCache : 50000
